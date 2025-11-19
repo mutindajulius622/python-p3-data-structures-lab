@@ -1,0 +1,8 @@
+- [x] Implement get_names function
+- [x] Implement get_spiciest_foods function
+- [x] Implement print_spicy_foods function
+- [x] Implement get_spicy_food_by_cuisine function
+- [x] Implement print_spiciest_foods function
+- [x] Implement get_average_heat_level function
+- [x] Implement create_spicy_food function
+- [x] Run pytest to verify all tests pass
